@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#BattleHardened Paint,,,,,,,
+CPW_vapor_battlehardened,diableavionics_vapor,Battlehardened,graphics/battlehardened/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_sleet_battlehardened,diableavionics_sleet,Battlehardened,graphics/battlehardened/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_p_battlehardened,diableavionics_stratus_p,Battlehardened,graphics/battlehardened/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_hayle_battlehardened,diableavionics_hayle,Battlehardened,graphics/battlehardened/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_calm_battlehardened,diableavionics_calm,Battlehardened,graphics/battlehardened/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_derecho_battlehardened,diableavionics_derecho,Battlehardened,graphics/battlehardened/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_daze_battlehardened,diableavionics_daze,Battlehardened,graphics/battlehardened/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_haze_battlehardened,diableavionics_haze,Battlehardened,graphics/battlehardened/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_m_battlehardened,diableavionics_rime_m,Battlehardened,graphics/battlehardened/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_p_battlehardened,diableavionics_rime_p,Battlehardened,graphics/battlehardened/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_gust_battlehardened,diableavionics_gust,Battlehardened,graphics/battlehardened/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_fractus_battlehardened,diableavionics_fractus,Battlehardened,graphics/battlehardened/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_miniGust_battlehardened,diableavionics_miniGust,Battlehardened,graphics/battlehardened/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+#CPW_storm_battlehardened,diableavionics_storm,Battlehardened,graphics/battlehardened/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_maelstorm_battlehardened,diableavionics_maelstrom,Battlehardened,graphics/battlehardened/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_pandemonium_battlehardened,diableavionics_pandemonium,Battlehardened,graphics/battlehardened/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_battlehardened,diableavionics_stratus,Battlehardened,graphics/battlehardened/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_chinook_battlehardened,diableavionics_chinook,Battlehardened,graphics/battlehardened/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_cirrus_battlehardened,diableavionics_cirrus,Battlehardened,graphics/battlehardened/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_shear_battlehardened,diableavionics_shear,Battlehardened,graphics/battlehardened/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_laminar_battlehardened,diableavionics_laminar,Battlehardened,graphics/battlehardened/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_battlehardened,diableavionics_rime,Battlehardened,graphics/battlehardened/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_IBBgulf_battlehardened,diableavionics_IBBgulf,Battlehardened,graphics/battlehardened/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Tartiflette.
