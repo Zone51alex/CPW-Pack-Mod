@@ -1,0 +1,22 @@
+{
+  "id":"ORA_FG_CPW_Mod",
+	"name":"Custom PaintWorks ORA Fractal Green Mod",
+	"author":"Harpuea,Zone51,Damex",	
+	"version":"0.0.1",
+	"description":"Skin Pack for ORA using MagicPaintjob, Fractal Green Version.",
+	"gameVersion":"0.97",
+	"dependencies": [
+        {
+            "id": "ORA",
+            "name": "Outer Rim Alliance",
+            #"version": "2.6"
+		
+        },
+		
+		{
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "1.3.5"
+        },
+    ],
+}
