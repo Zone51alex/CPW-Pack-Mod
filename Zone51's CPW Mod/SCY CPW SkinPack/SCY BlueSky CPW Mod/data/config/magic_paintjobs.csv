@@ -1,0 +1,38 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description,notes
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,,
+# tags: Optional, currently unused.,,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,,
+,,,,,,,,
+# Example,,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.,
+#foreignlegion Paint,,,,,,,,
+CPW_alecto_bluesky,scy_alecto,BlueSky,graphics/ships/SCY_argus.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_tisiphone_bluesky,scy_tisiphone,BlueSky,graphics/ships/SCY_tisiphone.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+CPW_centaur_bluesky,scy_centaur,BlueSky,graphics/ships/SCY_centaur.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_lealaps_bluesky,scy_lealaps,BlueSky,graphics/ships/SCY_lealaps.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_talos_bluesky,scy_talos,BlueSky,graphics/ships/SCY_talos.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+CPW_megaera_bluesky,scy_megaera,BlueSky,graphics/ships/SCY_megaera.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_stymphalianbird_bluesky,scy_stymphalianbird,BlueSky,graphics/ships/SCY_stymphalianbird.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_argus_bluesky,scy_argus,BlueSky,graphics/ships/SCY_argus.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_baliusF_bluesky,scy_baliusF,BlueSky,graphics/ships/SCY_baliusF.png,TRUE,,Unlocked by Default.,by Tartiflette.,Missing Skin in Pack.
+#CPW_baliusT_bluesky,scy_baliusT,BlueSky,graphics/ships/SCY_baliusT.png,TRUE,,Unlocked by Default.,by Tartiflette.,Missing Skin in Pack.
+CPW_geryon_bluesky,scy_geryon,BlueSky,graphics/ships/SCY_geryon.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_lamia_bluesky,scy_lamia,BlueSky,graphics/ships/SCY_lamia.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+#CPW_telchine_bluesky,scy_telchine,BlueSky,graphics/ships/SCY_telchine.png,TRUE,,Unlocked by Default.,by Tartiflette.,Missing Skin in Pack.
+#CPW_lamiaA_bluesky,scy_lamiaA,BlueSky,graphics/ships/SCY_lamiaA.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+CPW_hydra_bluesky,scy_hydra,BlueSky,graphics/ships/SCY_hydra.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_pyraemon_bluesky,scy_pyraemon,BlueSky,graphics/ships/SCY_pyraemon.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_corocotta_bluesky,scy_corocotta,BlueSky,graphics/ships/SCY_corocotta.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+#CPW_corocottaA_bluesky,scy_corocottaA,BlueSky,graphics/ships/SCY_corocottaA.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+CPW_dracanae_bluesky,scy_dracanae,BlueSky,graphics/ships/SCY_dracanae.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_manticore_bluesky,scy_manticore,BlueSky,graphics/ships/SCY_manticore.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+CPW_erymanthianboar_bluesky,scy_erymanthianboar,BlueSky,graphics/ships/SCY_erymanthianboar.png,TRUE,,Unlocked by Default.,by Tartiflette.,
+#CPW_siren_bluesky,scy_siren,BlueSky,graphics/ships/SCY_siren.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+#CPW_khalkotauroi_bluesky,scy_khalkotauroi,BlueSky,graphics/ships/SCY_khalkotauroi.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship cannot use.
+CPW_nemeanlion_bluesky,scy_nemeanlion,BlueSky,graphics/ships/SCY_nemeanlion.png,TRUE,,Unlocked by Default.,by Tartiflette.,multipart ship can use.
+CPW_xanthus_bluesky,scy_xanthus,BlueSky,graphics/ships/SCY_xanthus.png,TRUE,,Unlocked by Default.,by Tartiflette.,

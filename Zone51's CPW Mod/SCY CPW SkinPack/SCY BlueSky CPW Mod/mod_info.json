@@ -1,0 +1,22 @@
+{
+  "id":"SCY_BS_CPW_Mod",
+	"name":"Custom PaintWorks SCY Blue Sky Mod",
+	"author":"Harpuea,Zone51,Damex",	
+	"version":"0.0.1",
+	"description":"Skin Pack for SCY using MagicPaintjob, Blue Sky Version.",
+	"gameVersion":"0.97",
+	"dependencies": [
+        {
+            "id": "SCY",
+            "name": "Scy Nation",
+            #"version": "1.6.7"
+		
+        },
+		
+		{
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "1.3.5"
+        },
+    ],
+}
