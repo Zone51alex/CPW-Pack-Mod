@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Luxurious Bronze Paint,,,,,,,
+CPW_vapor_luxurious_bronze,diableavionics_vapor,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_sleet_luxurious_bronze,diableavionics_sleet,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_stratus_p_luxurious_bronze,diableavionics_stratus_p,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_hayle_luxurious_bronze,diableavionics_hayle,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_calm_luxurious_bronze,diableavionics_calm,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_derecho_luxurious_bronze,diableavionics_derecho,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_daze_luxurious_bronze,diableavionics_daze,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_haze_luxurious_bronze,diableavionics_haze,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_m_luxurious_bronze,diableavionics_rime_m,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_p_luxurious_bronze,diableavionics_rime_p,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_gust_luxurious_bronze,diableavionics_gust,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_fractus_luxurious_bronze,diableavionics_fractus,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_miniGust_luxurious_bronze,diableavionics_miniGust,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Nes.
+#CPW_storm_luxurious_bronze,diableavionics_storm,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_maelstorm_luxurious_bronze,diableavionics_maelstrom,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_pandemonium_luxurious_bronze,diableavionics_pandemonium,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_stratus_luxurious_bronze,diableavionics_stratus,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_chinook_luxurious_bronze,diableavionics_chinook,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_cirrus_luxurious_bronze,diableavionics_cirrus,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_shear_luxurious_bronze,diableavionics_shear,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_laminar_luxurious_bronze,diableavionics_laminar,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_luxurious_bronze,diableavionics_rime,Luxurious Bronze,graphics/luxurious_bronze/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_IBBgulf_luxurious_bronze,diableavionics_IBBgulf,Luxurious Bronze,graphics/luxurious_bronze/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Nes.

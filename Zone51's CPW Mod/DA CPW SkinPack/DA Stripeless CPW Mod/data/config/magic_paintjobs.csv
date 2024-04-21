@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Stripeless,,,,,,,
+CPW_vapor_stripeless,diableavionics_vapor,Stripeless,graphics/stripeless/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_sleet_stripeless,diableavionics_sleet,Stripeless,graphics/stripeless/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_p_stripeless,diableavionics_stratus_p,Stripeless,graphics/stripeless/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_hayle_stripeless,diableavionics_hayle,Stripeless,graphics/stripeless/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_calm_stripeless,diableavionics_calm,Stripeless,graphics/stripeless/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_derecho_stripeless,diableavionics_derecho,Stripeless,graphics/stripeless/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_daze_stripeless,diableavionics_daze,Stripeless,graphics/stripeless/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_haze_stripeless,diableavionics_haze,Stripeless,graphics/stripeless/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_m_stripeless,diableavionics_rime_m,Stripeless,graphics/stripeless/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_p_stripeless,diableavionics_rime_p,Stripeless,graphics/stripeless/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_gust_stripeless,diableavionics_gust,Stripeless,graphics/stripeless/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_fractus_stripeless,diableavionics_fractus,Stripeless,graphics/stripeless/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_miniGust_stripeless,diableavionics_miniGust,Stripeless,graphics/stripeless/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+#CPW_storm_stripeless,diableavionics_storm,Stripeless,graphics/stripeless/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_maelstorm_stripeless,diableavionics_maelstrom,Stripeless,graphics/stripeless/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_pandemonium_stripeless,diableavionics_pandemonium,Stripeless,graphics/stripeless/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_stripeless,diableavionics_stratus,Stripeless,graphics/stripeless/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_chinook_stripeless,diableavionics_chinook,Stripeless,graphics/stripeless/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_cirrus_stripeless,diableavionics_cirrus,Stripeless,graphics/stripeless/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_shear_stripeless,diableavionics_shear,Stripeless,graphics/stripeless/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_laminar_stripeless,diableavionics_laminar,Stripeless,graphics/stripeless/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_stripeless,diableavionics_rime,Stripeless,graphics/stripeless/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_IBBgulf_stripeless,diableavionics_IBBgulf,Stripeless,graphics/stripeless/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Tartiflette.

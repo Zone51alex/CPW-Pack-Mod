@@ -1,0 +1,22 @@
+{
+  "id":"DA_BW_CPW_Mod",
+	"name":"Custom PaintWorks Battleworn Mod",
+	"author":"Harpuea,Zone51,Damex",	
+	"version":"0.0.2",
+	"description":"Skin Pack for DA using MagicPaintjob, Battleworn Version.",
+	"gameVersion":"0.97",
+	"dependencies": [
+        {
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            #"version": "2.7.4"
+		
+        },
+		
+		{
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "1.3.5"
+        },
+    ],
+}

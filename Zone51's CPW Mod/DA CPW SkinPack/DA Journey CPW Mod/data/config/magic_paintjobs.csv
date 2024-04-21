@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Journey Paint,,,,,,,
+CPW_vapor_journey,diableavionics_vapor,Journey,graphics/journey/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_sleet_journey,diableavionics_sleet,Journey,graphics/journey/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_stratus_p_journey,diableavionics_stratus_p,Journey,graphics/journey/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_hayle_journey,diableavionics_hayle,Journey,graphics/journey/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_calm_journey,diableavionics_calm,Journey,graphics/journey/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_derecho_journey,diableavionics_derecho,Journey,graphics/journey/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_daze_journey,diableavionics_daze,Journey,graphics/journey/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_haze_journey,diableavionics_haze,Journey,graphics/journey/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_m_journey,diableavionics_rime_m,Journey,graphics/journey/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_p_journey,diableavionics_rime_p,Journey,graphics/journey/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_gust_journey,diableavionics_gust,Journey,graphics/journey/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_fractus_journey,diableavionics_fractus,Journey,graphics/journey/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_miniGust_journey,diableavionics_miniGust,Journey,graphics/journey/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Nes.
+#CPW_storm_journey,diableavionics_storm,Journey,graphics/journey/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_maelstorm_journey,diableavionics_maelstrom,Journey,graphics/journey/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_pandemonium_journey,diableavionics_pandemonium,Journey,graphics/journey/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_stratus_journey,diableavionics_stratus,Journey,graphics/journey/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_chinook_journey,diableavionics_chinook,Journey,graphics/journey/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_cirrus_journey,diableavionics_cirrus,Journey,graphics/journey/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_shear_journey,diableavionics_shear,Journey,graphics/journey/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_laminar_journey,diableavionics_laminar,Journey,graphics/journey/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_rime_journey,diableavionics_rime,Journey,graphics/journey/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Nes.
+CPW_IBBgulf_journey,diableavionics_IBBgulf,Journey,graphics/journey/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Nes.

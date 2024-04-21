@@ -1,0 +1,37 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#foreignlegion Paint,,,,,,,
+CPW_vapor_foreignlegion,diableavionics_vapor,foreignlegion,graphics/foreignlegion/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_sleet_foreignlegion,diableavionics_sleet,foreignlegion,graphics/foreignlegion/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_stratus_p_foreignlegion,diableavionics_stratus_p,foreignlegion,graphics/foreignlegion/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_hayle_foreignlegion,diableavionics_hayle,foreignlegion,graphics/foreignlegion/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_calm_foreignlegion,diableavionics_calm,foreignlegion,graphics/foreignlegion/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_derecho_foreignlegion,diableavionics_derecho,foreignlegion,graphics/foreignlegion/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_daze_foreignlegion,diableavionics_daze,foreignlegion,graphics/foreignlegion/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_haze_foreignlegion,diableavionics_haze,foreignlegion,graphics/foreignlegion/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_rime_m_foreignlegion,diableavionics_rime_m,foreignlegion,graphics/foreignlegion/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_rime_p_foreignlegion,diableavionics_rime_p,foreignlegion,graphics/foreignlegion/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_gust_foreignlegion,diableavionics_gust,foreignlegion,graphics/foreignlegion/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_fractus_foreignlegion,diableavionics_fractus,foreignlegion,graphics/foreignlegion/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_miniGust_foreignlegion,diableavionics_miniGust,foreignlegion,graphics/foreignlegion/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Kwenchin.
+#CPW_storm_foreignlegion,diableavionics_storm,foreignlegion,graphics/foreignlegion/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_maelstorm_foreignlegion,diableavionics_maelstrom,foreignlegion,graphics/foreignlegion/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_pandemonium_foreignlegion,diableavionics_pandemonium,foreignlegion,graphics/foreignlegion/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_stratus_foreignlegion,diableavionics_stratus,foreignlegion,graphics/foreignlegion/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_chinook_foreignlegion,diableavionics_chinook,foreignlegion,graphics/foreignlegion/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_cirrus_foreignlegion,diableavionics_cirrus,foreignlegion,graphics/foreignlegion/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_shear_foreignlegion,diableavionics_shear,foreignlegion,graphics/foreignlegion/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_laminar_foreignlegion,diableavionics_laminar,foreignlegion,graphics/foreignlegion/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_rime_foreignlegion,diableavionics_rime,foreignlegion,graphics/foreignlegion/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Kwenchin.
+CPW_IBBgulf_foreignlegion,diableavionics_IBBgulf,foreignlegion,graphics/foreignlegion/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Kwenchin.
+,diableavionics_IBBgulf,Diable Avionics Gulf Paint,graphics/foreignlegion/ships/gulf/diableavionics_IBBgulf_repainted.png,TRUE,,Unlocked by Default.,by Kwenchin.

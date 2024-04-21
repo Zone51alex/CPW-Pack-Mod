@@ -1,0 +1,35 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Battleworn Paint,,,,,,,
+CPW_vapor_battleworn,diableavionics_vapor,Battleworn,graphics/battleworn/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_sleet_battleworn,diableavionics_sleet,Battleworn,graphics/battleworn/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_p_battleworn,diableavionics_stratus_p,Battleworn,graphics/battleworn/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_hayle_battleworn,diableavionics_hayle,Battleworn,graphics/battleworn/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_calm_battleworn,diableavionics_calm,Battleworn,graphics/battleworn/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_derecho_battleworn,diableavionics_derecho,Battleworn,graphics/battleworn/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_daze_battleworn,diableavionics_daze,Battleworn,graphics/battleworn/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_haze_battleworn,diableavionics_haze,Battleworn,graphics/battleworn/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_m_battleworn,diableavionics_rime_m,Battleworn,graphics/battleworn/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_p_battleworn,diableavionics_rime_p,Battleworn,graphics/battleworn/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_gust_battleworn,diableavionics_gust,Battleworn,graphics/battleworn/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_fractus_battleworn,diableavionics_fractus,Battleworn,graphics/battleworn/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_miniGust_battleworn,diableavionics_miniGust,Battleworn,graphics/battleworn/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+#CPW_storm_battleworn,diableavionics_storm,Battleworn,graphics/battleworn/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_maelstorm_battleworn,diableavionics_maelstrom,Battleworn,graphics/battleworn/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_pandemonium_battleworn,diableavionics_pandemonium,Battleworn,graphics/battleworn/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_battleworn,diableavionics_stratus,Battleworn,graphics/battleworn/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_chinook_battleworn,diableavionics_chinook,Battleworn,graphics/battleworn/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_cirrus_battleworn,diableavionics_cirrus,Battleworn,graphics/battleworn/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_shear_battleworn,diableavionics_shear,Battleworn,graphics/battleworn/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_laminar_battleworn,diableavionics_laminar,Battleworn,graphics/battleworn/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_battleworn,diableavionics_rime,Battleworn,graphics/battleworn/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Tartiflette.

@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Sunrise Paint,,,,,,,
+CPW_vapor_sunrise,diableavionics_vapor,Sunrise,graphics/sunrise/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_sleet_sunrise,diableavionics_sleet,Sunrise,graphics/sunrise/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_p_sunrise,diableavionics_stratus_p,Sunrise,graphics/sunrise/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_hayle_sunrise,diableavionics_hayle,Sunrise,graphics/sunrise/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_calm_sunrise,diableavionics_calm,Sunrise,graphics/sunrise/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_derecho_sunrise,diableavionics_derecho,Sunrise,graphics/sunrise/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_daze_sunrise,diableavionics_daze,Sunrise,graphics/sunrise/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_haze_sunrise,diableavionics_haze,Sunrise,graphics/sunrise/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_m_sunrise,diableavionics_rime_m,Sunrise,graphics/sunrise/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_p_sunrise,diableavionics_rime_p,Sunrise,graphics/sunrise/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_gust_sunrise,diableavionics_gust,Sunrise,graphics/sunrise/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_fractus_sunrise,diableavionics_fractus,Sunrise,graphics/sunrise/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_miniGust_sunrise,diableavionics_miniGust,Sunrise,graphics/sunrise/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Tartiflette.
+#CPW_storm_sunrise,diableavionics_storm,Sunrise,graphics/sunrise/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_maelstorm_sunrise,diableavionics_maelstrom,Sunrise,graphics/sunrise/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_pandemonium_sunrise,diableavionics_pandemonium,Sunrise,graphics/sunrise/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_stratus_sunrise,diableavionics_stratus,Sunrise,graphics/sunrise/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_chinook_sunrise,diableavionics_chinook,Sunrise,graphics/sunrise/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_cirrus_sunrise,diableavionics_cirrus,Sunrise,graphics/sunrise/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_shear_sunrise,diableavionics_shear,Sunrise,graphics/sunrise/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_laminar_sunrise,diableavionics_laminar,Sunrise,graphics/sunrise/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_rime_sunrise,diableavionics_rime,Sunrise,graphics/sunrise/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Tartiflette.
+CPW_IBBgulf_sunrise,diableavionics_IBBgulf,Sunrise,graphics/sunrise/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Tartiflette.

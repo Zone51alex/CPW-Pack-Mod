@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Lilium Paint,,,,,,,
+CPW_vapor_lilium,diableavionics_vapor,Lilium,graphics/lilium/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_sleet_lilium,diableavionics_sleet,Lilium,graphics/lilium/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+#CPW_stratus_p_lilium,diableavionics_stratus_p,Lilium,graphics/lilium/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_hayle_lilium,diableavionics_hayle,Lilium,graphics/lilium/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_calm_lilium,diableavionics_calm,Lilium,graphics/lilium/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_derecho_lilium,diableavionics_derecho,Lilium,graphics/lilium/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_daze_lilium,diableavionics_daze,Lilium,graphics/lilium/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_haze_lilium,diableavionics_haze,Lilium,graphics/lilium/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_rime_m_lilium,diableavionics_rime_m,Lilium,graphics/lilium/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+#CPW_rime_p_lilium,diableavionics_rime_p,Lilium,graphics/lilium/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_gust_lilium,diableavionics_gust,Lilium,graphics/lilium/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_fractus_lilium,diableavionics_fractus,Lilium,graphics/lilium/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_miniGust_lilium,diableavionics_miniGust,Lilium,graphics/lilium/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+#CPW_storm_lilium,diableavionics_storm,Lilium,graphics/lilium/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_maelstorm_lilium,diableavionics_maelstrom,Lilium,graphics/lilium/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_pandemonium_lilium,diableavionics_pandemonium,Lilium,graphics/lilium/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_stratus_lilium,diableavionics_stratus,Lilium,graphics/lilium/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_chinook_lilium,diableavionics_chinook,Lilium,graphics/lilium/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_cirrus_lilium,diableavionics_cirrus,Lilium,graphics/lilium/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_shear_lilium,diableavionics_shear,Lilium,graphics/lilium/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_laminar_lilium,diableavionics_laminar,Lilium,graphics/lilium/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_rime_lilium,diableavionics_rime,Lilium,graphics/lilium/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Nia Tahl.
+CPW_IBBgulf_lilium,diableavionics_IBBgulf,Lilium,graphics/lilium/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Nia Tahl.

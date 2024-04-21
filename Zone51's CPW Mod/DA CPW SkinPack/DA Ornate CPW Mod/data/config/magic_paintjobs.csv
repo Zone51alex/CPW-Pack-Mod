@@ -1,0 +1,36 @@
+id,hullId,name,spriteId,unlockedAutomatically,tags,unlockConditions,description
+# id: Required. The id of the paintjob. Must be unique. Prefix with your mod id.,,,,,,,
+# hullId: Required. The id of the hull that this paintjob applies to. Must be a valid hull id.,,,,,,,
+# name: Required. The name of the paintjob.,,,,,,,
+# spriteId: Required. The path or spriteName of the ship sprite.,,,,,,,
+# unlockedAutomatically: Optional, default true. If true, the paintjob is unlocked by default. Otherwise, it must be manually unlocked using code (e.g. in achievement complete code).,,,,
+# tags: Optional, currently unused.,,,,,,
+# unlockConditions: Optional, default none. How to unlock the paintjob. Aim for one or two sentences.,,,,,,
+# description: Optional, default none. The description of the paintjob. Aim for one or two sentences.,,,,,,
+,,,,,,,
+# Example,,,,,,,
+# magiclib_examplePaintjob," ""onslaught""",Oldslaught,graphics/ships/oldslaught.png,FALSE,,Complete the 'Slayer' achievement to unlock.,Original Onslaught sprite.
+#Ornate Paint,,,,,,,
+CPW_vapor_ornate,diableavionics_vapor,Ornate,graphics/ornate/ships/diableavionics_vapor.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_sleet_ornate,diableavionics_sleet,Ornate,graphics/ornate/ships/diableavionics_sleet.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_stratus_p_ornate,diableavionics_stratus_p,Ornate,graphics/ornate/ships/diableavionics_stratus_p.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_hayle_ornate,diableavionics_hayle,Ornate,graphics/ornate/ships/diableavionics_hayle.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_calm_ornate,diableavionics_calm,Ornate,graphics/ornate/ships/diableavionics_calm_deck.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_derecho_ornate,diableavionics_derecho,Ornate,graphics/ornate/ships/diableavionics_derecho.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_daze_ornate,diableavionics_daze,Ornate,graphics/ornate/ships/diableavionics_daze.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_haze_ornate,diableavionics_haze,Ornate,graphics/ornate/ships/diableavionics_haze.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_rime_m_ornate,diableavionics_rime_m,Ornate,graphics/ornate/ships/diableavionics_rime_military.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_rime_p_ornate,diableavionics_rime_p,Ornate,graphics/ornate/ships/diableavionics_rime_p.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_gust_ornate,diableavionics_gust,Ornate,graphics/ornate/ships/diableavionics_gust.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_fractus_ornate,diableavionics_fractus,Ornate,graphics/ornate/ships/diableavionics_fractus.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_miniGust_ornate,diableavionics_miniGust,Ornate,graphics/ornate/ships/diableavionics_minigust.png,TRUE,,Unlocked by Default.,by Sozzer.
+#CPW_storm_ornate,diableavionics_storm,Ornate,graphics/ornate/ships/diableavionics_storm.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_maelstorm_ornate,diableavionics_maelstrom,Ornate,graphics/ornate/ships/diableavionics_maelstrom.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_pandemonium_ornate,diableavionics_pandemonium,Ornate,graphics/ornate/ships/diableavionics_pandemonium.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_stratus_ornate,diableavionics_stratus,Ornate,graphics/ornate/ships/diableavionics_stratus.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_chinook_ornate,diableavionics_chinook,Ornate,graphics/ornate/ships/diableavionics_chinook.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_cirrus_ornate,diableavionics_cirrus,Ornate,graphics/ornate/ships/diableavionics_cirrus.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_shear_ornate,diableavionics_shear,Ornate,graphics/ornate/ships/diableavionics_shear.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_laminar_ornate,diableavionics_laminar,Ornate,graphics/ornate/ships/diableavionics_laminar.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_rime_ornate,diableavionics_rime,Ornate,graphics/ornate/ships/diableavionics_rime.png,TRUE,,Unlocked by Default.,by Sozzer.
+CPW_IBBgulf_ornate,diableavionics_IBBgulf,Ornate,graphics/ornate/ships/gulf/diableavionics_IBBgulf.png,TRUE,,Unlocked by Default.,by Sozzer.
